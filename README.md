@@ -1,6 +1,6 @@
 # Test Assignment - Ellty 
 
-## Live Link : https://bit.ly/ellty-design
+## Live Link : https://dashing-praline-a8f52f.netlify.app/
 
 ## Tech Stack
 
